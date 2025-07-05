@@ -1,0 +1,4 @@
+Patient P001: Admitted on 2025-07-01 with fever
+Patient P002: Discharged on 2025-07-02 after recovery
+Patient P003: Scheduled for surgery on 2025-07-05
+Patient P004: Allergic reaction noted, medication adjusted
